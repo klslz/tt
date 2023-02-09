@@ -1,24 +1,23 @@
 # tt
 Touch Toolbox (no longer maintained)
 
-This is the repo for the Touch Toolbox.
-
 The Touch Toolbox is a tuning/optimization tool for the 
-Linux based Logitech Squeezebox Touch audio streamer.
-It's about ten years that the device is out of production.
+Linux based Logitech Squeezebox Touch (SBT) audio streamer.
+The SBT is afaik more then ten years (2012?) out of production.
+Around that time frame I also stopped maintaining the Toolbox. 
 
-I still (2023) receive mails asking for the TouchToolbox.
+I still (2023) receive mails asking for the Touch Toolbox though.
 
-I now decided to put it on github. I can neither support 
-anybody nor I am able to maintain the toolbox. I simply do 
-not have a working Squeezebox Touch at hand anymore.
-You'll be 100% on your own, if you use/apply it. 
+I finally decided to put it on github. I can neither support 
+anybody nor I am willing to maintain the Toolbox.
+You'll be 100% on your own. 
 
-I'll add the setup documentation I had on my blog in the past.
-And you'll find the TouchToolbox 3.0. 3.0 was the last version 
-I released back than. 
+I'll add the setup documentation that I had realeased on my 
+blog in the past. And you'll get the Touch Toolbox Version 3.0.
+Version 3.0 was the last version I released back than. 
 
-You might have noticed I put it under GPL3 license.
+You might have noticed I put it under GPL3 license. Read that
+to know what your're dealing with.
 
 Enjoy.
 
